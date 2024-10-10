@@ -1,4 +1,3 @@
 Jairo Alonso Craqui
 Diego Martín García
-
 Vamos a desarrollar una pagina para la venta de miniaturas de un juego de mesa.
